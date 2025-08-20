@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Pharmacy_Inventory_Management
+namespace Pharmacy_Inventory_System
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace Pharmacy_Inventory_Management
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new MainForm());
         }
     }
 }
