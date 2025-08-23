@@ -16,7 +16,7 @@ namespace Medical_Appointment_Booking_System
             InitializeComponent();
         }
 
-        // Form Load
+        
         private void ManageAppointmentsForm_Load(object sender, EventArgs e)
         {
             LoadAppointments();
@@ -46,7 +46,7 @@ namespace Medical_Appointment_Booking_System
             }
         }
 
-        // Capture selected row
+        
         private void dgvAppointments_SelectionChanged(object sender, EventArgs e)
         {
             if (dgvAppointments.SelectedRows.Count > 0)
@@ -55,7 +55,7 @@ namespace Medical_Appointment_Booking_System
             }
         }
 
-        // Update appointment
+        
         private void btnUpdate_Click(object sender, EventArgs e)
         {
             if (selectedAppointmentId == -1)
@@ -64,8 +64,8 @@ namespace Medical_Appointment_Booking_System
                 return;
             }
 
-            DateTime newDate = DateTime.Now.AddDays(1); // Example: move to tomorrow
-            string newNotes = "Updated notes";          // In real app: open dialog to edit
+            DateTime newDate = DateTime.Now.AddDays(1); 
+            string newNotes = "Updated notes";          
 
             try
             {
@@ -89,7 +89,7 @@ namespace Medical_Appointment_Booking_System
             }
         }
 
-        // Delete appointment
+        
         private void btnDelete_Click(object sender, EventArgs e)
         {
             if (selectedAppointmentId == -1)

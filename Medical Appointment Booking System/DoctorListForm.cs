@@ -43,5 +43,10 @@ namespace Medical_Appointment_Booking_System
         {
             LoadDoctors();
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

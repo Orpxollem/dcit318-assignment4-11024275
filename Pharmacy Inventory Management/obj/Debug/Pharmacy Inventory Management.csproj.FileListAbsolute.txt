@@ -1,13 +1,11 @@
-C:\Users\melvi\Desktop\asss\318\dcit318-assignment4-11024275\Pharmacy Inventory Management\obj\Debug\Pharmacy Inventory Management.csproj.AssemblyReference.cache
-C:\Users\melvi\Desktop\asss\318\dcit318-assignment4-11024275\Pharmacy Inventory Management\obj\Debug\Pharmacy_Inventory_System.MainForm.resources
-C:\Users\melvi\Desktop\asss\318\dcit318-assignment4-11024275\Pharmacy Inventory Management\obj\Debug\Pharmacy_Inventory_Management.Properties.Resources.resources
-C:\Users\melvi\Desktop\asss\318\dcit318-assignment4-11024275\Pharmacy Inventory Management\obj\Debug\Pharmacy_Inventory_Management.ViewMedicinesForm.resources
-C:\Users\melvi\Desktop\asss\318\dcit318-assignment4-11024275\Pharmacy Inventory Management\obj\Debug\Pharmacy Inventory Management.csproj.GenerateResource.cache
-C:\Users\melvi\Desktop\asss\318\dcit318-assignment4-11024275\Pharmacy Inventory Management\obj\Debug\Pharmacy Inventory Management.csproj.CoreCompileInputs.cache
 C:\Users\melvi\Desktop\asss\318\dcit318-assignment4-11024275\Pharmacy Inventory Management\bin\Debug\Pharmacy Inventory Management.exe.config
 C:\Users\melvi\Desktop\asss\318\dcit318-assignment4-11024275\Pharmacy Inventory Management\bin\Debug\Pharmacy Inventory Management.exe
 C:\Users\melvi\Desktop\asss\318\dcit318-assignment4-11024275\Pharmacy Inventory Management\bin\Debug\Pharmacy Inventory Management.pdb
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment4-11024275\Pharmacy Inventory Management\obj\Debug\Pharmacy Inventory Management.csproj.AssemblyReference.cache
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment4-11024275\Pharmacy Inventory Management\obj\Debug\Pharmacy_Inventory_Management.MainForm.resources
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment4-11024275\Pharmacy Inventory Management\obj\Debug\Pharmacy_Inventory_Management.Properties.Resources.resources
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment4-11024275\Pharmacy Inventory Management\obj\Debug\Pharmacy Inventory Management.csproj.GenerateResource.cache
+C:\Users\melvi\Desktop\asss\318\dcit318-assignment4-11024275\Pharmacy Inventory Management\obj\Debug\Pharmacy Inventory Management.csproj.CoreCompileInputs.cache
 C:\Users\melvi\Desktop\asss\318\dcit318-assignment4-11024275\Pharmacy Inventory Management\obj\Debug\Pharmacy Inventory Management.exe
 C:\Users\melvi\Desktop\asss\318\dcit318-assignment4-11024275\Pharmacy Inventory Management\obj\Debug\Pharmacy Inventory Management.pdb
 C:\Users\melvi\Desktop\asss\318\dcit318-assignment4-11024275\Pharmacy Inventory Management\obj\Debug\Pharmacy Inventory Management.exe.config
-C:\Users\melvi\Desktop\asss\318\dcit318-assignment4-11024275\Pharmacy Inventory Management\obj\Debug\Pharmacy_Inventory_System.AddMedicineForm.resources

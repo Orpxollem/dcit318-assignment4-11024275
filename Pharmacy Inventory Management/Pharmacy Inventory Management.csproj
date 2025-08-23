@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{891F378B-EAC4-4C75-A586-4455FDE4EFD9}</ProjectGuid>
+    <ProjectGuid>{30728DE3-0967-41F0-B698-D4C259B993D2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Pharmacy_Inventory_Management</RootNamespace>
     <AssemblyName>Pharmacy Inventory Management</AssemblyName>
@@ -33,7 +33,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
@@ -48,12 +47,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AddMedicineForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="AddMedicineForm.Designer.cs">
-      <DependentUpon>AddMedicineForm.cs</DependentUpon>
-    </Compile>
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,15 +55,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ViewMedicinesForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="ViewMedicinesForm.Designer.cs">
-      <DependentUpon>ViewMedicinesForm.cs</DependentUpon>
-    </Compile>
-    <EmbeddedResource Include="AddMedicineForm.resx">
-      <DependentUpon>AddMedicineForm.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -83,9 +67,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="ViewMedicinesForm.resx">
-      <DependentUpon>ViewMedicinesForm.cs</DependentUpon>
-    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

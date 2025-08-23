@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36408.4 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pharmacy Inventory Management", "Pharmacy Inventory Management.csproj", "{891F378B-EAC4-4C75-A586-4455FDE4EFD9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pharmacy Inventory Management", "Pharmacy Inventory Management.csproj", "{30728DE3-0967-41F0-B698-D4C259B993D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{891F378B-EAC4-4C75-A586-4455FDE4EFD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{891F378B-EAC4-4C75-A586-4455FDE4EFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{891F378B-EAC4-4C75-A586-4455FDE4EFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{891F378B-EAC4-4C75-A586-4455FDE4EFD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30728DE3-0967-41F0-B698-D4C259B993D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30728DE3-0967-41F0-B698-D4C259B993D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30728DE3-0967-41F0-B698-D4C259B993D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30728DE3-0967-41F0-B698-D4C259B993D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3A59722B-38C8-4504-BAAE-5F038465D3EB}
+		SolutionGuid = {6FB1CBCF-C07D-48F4-B818-74C1A3475F81}
 	EndGlobalSection
 EndGlobal
